@@ -1,0 +1,38 @@
+.test-case {
+    border: 2px solid #ccc;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+.description {
+    margin-bottom: 20px;
+    font-size: 1.2em;
+}
+
+.options {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1em;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.yes-option {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.no-option {
+    background-color: #f44336;
+    color: white;
+}
+
