@@ -1,4 +1,3 @@
-nano components/TestCase.js
 import React from 'react';
 import './TestCase.css';
 
